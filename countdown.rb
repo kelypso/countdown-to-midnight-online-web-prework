@@ -8,3 +8,4 @@ def countdown(time)
   return "HAPPY NEW YEAR!"
 end
 
+def countdown_withS
